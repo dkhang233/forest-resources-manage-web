@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkforest_resources_manage_application"]=self["webpackChunkforest_resources_manage_application"]||[]).push([[2],{6002:function(e,n,r){r.r(n),r.d(n,{default:function(){return p}});var a=r(3396);function s(e,n,r,s,t,c){const o=(0,a.up)("Map");return(0,a.wg)(),(0,a.j4)(o,{class:"h-[43rem]"})}var t=r(8451),c={components:{Map:t.Z}},o=r(89);const u=(0,o.Z)(c,[["render",s]]);var p=u}}]);
-//# sourceMappingURL=2.39ae90e2.js.map
